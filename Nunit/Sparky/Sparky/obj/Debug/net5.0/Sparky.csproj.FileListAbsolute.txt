@@ -1,0 +1,12 @@
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\bin\Debug\net5.0\Sparky.deps.json
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\bin\Debug\net5.0\Sparky.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\bin\Debug\net5.0\Sparky.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.AssemblyReference.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfoInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfo.cs
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\refint\Sparky.dll
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\Sparky.pdb
+C:\Users\ricardo.garcia\OneDrive - Epicor\Documents\Cursos\Nunit\Nunit\Sparky\Sparky\obj\Debug\net5.0\ref\Sparky.dll
