@@ -8,5 +8,11 @@ namespace Sparky
         {
             return a + b;       
         }
+
+        public bool IsOdd(int a) //impar odd
+        {
+            return a % 2 != 0; // if module is different than 0, then is odd
+        }
+
     }
 }

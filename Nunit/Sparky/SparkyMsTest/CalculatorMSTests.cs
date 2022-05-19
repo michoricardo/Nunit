@@ -22,5 +22,16 @@ namespace SparkyMsTest
             //Assert = Result expected
             Assert.AreEqual(30, result);
         }
+
+        [TestMethod]
+        public void Check_odd()
+        {
+            Calculator calc2 = new();
+            bool res = calc2.IsOdd(43);
+            Assert.IsTrue(res);
+            
+            
+           
+        }
     }
 }
