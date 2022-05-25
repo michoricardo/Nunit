@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Sparky",
+    "\\Sparky\\Bongo.Models.Tests",
     "\\Sparky\\Sparky",
     "\\Sparky\\SparkyMsTest"
   ],
-  "SelectedNode": "\\Sparky\\Sparky.sln",
+  "SelectedNode": "\\Sparky\\Bongo.Models.Tests\\DateInFutureAttributeTests.cs",
   "PreviewInSolutionExplorer": false
 }
